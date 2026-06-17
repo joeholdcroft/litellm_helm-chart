@@ -1,0 +1,19 @@
+scripts/helm-docs.sh
+  s_130a17c3d6caaf::t_8f3ea2d2984b47 14-18,22-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "52f53c796e7a4a5f138d63cc8b05baeba0e5bcc2",
+  "prompts": {},
+  "sessions": {
+    "s_130a17c3d6caaf": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8c634490-37d5-419b-a290-9ac175b1f792",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Joe Holdcroft <joe@tessl.io>"
+    }
+  }
+}
