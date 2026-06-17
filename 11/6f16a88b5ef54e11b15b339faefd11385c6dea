@@ -1,0 +1,21 @@
+.github/workflows/charts.lint-and-test.yaml
+  s_130a17c3d6caaf::t_ecf7a09a720c7d 52
+.github/workflows/charts.publish.yaml
+  s_130a17c3d6caaf::t_d8b3bce1d42104 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "116f16a88b5ef54e11b15b339faefd11385c6dea",
+  "prompts": {},
+  "sessions": {
+    "s_130a17c3d6caaf": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8c634490-37d5-419b-a290-9ac175b1f792",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Joe Holdcroft <joe@tessl.io>"
+    }
+  }
+}
