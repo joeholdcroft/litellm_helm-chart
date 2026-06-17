@@ -1,0 +1,35 @@
+charts/litellm/templates/deployment.yaml
+  s_130a17c3d6caaf::t_161699686883ae 111,113,115-118
+  s_130a17c3d6caaf::t_9960ebe17c8f64 26-27
+charts/litellm/templates/_helpers.tpl
+  s_130a17c3d6caaf::t_e000317dbaf6ee 73-74,76-78
+charts/litellm/templates/config-dir-extra.yaml
+  s_130a17c3d6caaf::t_204fa20878b8b9 1-13
+charts/litellm/Chart.yaml
+  s_130a17c3d6caaf::t_9a1a307447d420 16
+charts/litellm/values.yaml
+  s_130a17c3d6caaf::t_ae737c4b14795f 114-118,125-132
+  s_130a17c3d6caaf::t_4161f522f9295c 119-124
+charts/litellm/README.md.gotmpl
+  s_130a17c3d6caaf::t_2eef4d694deb38 18,20,22-26,28,36,41
+  s_130a17c3d6caaf::t_52274812509269 21,27,31-33,40
+charts/litellm/README.md
+  s_130a17c3d6caaf::t_d2b0c7595e8a78 20,26,30-32,39
+  s_130a17c3d6caaf::t_04321a4ef3d88e 17,19,21-25,27,35,40,51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "8f45387e433ba08d3684df59256d3dc4e8170fc7",
+  "prompts": {},
+  "sessions": {
+    "s_130a17c3d6caaf": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8c634490-37d5-419b-a290-9ac175b1f792",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Joe Holdcroft <joe@tessl.io>"
+    }
+  }
+}
